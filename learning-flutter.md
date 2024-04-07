@@ -7,6 +7,13 @@
 * [Deepdive into pubspec.yaml](https://medium.com/flutter-community/deep-dive-into-the-pubspec-yaml-file-fb56ac8683b9)
 * [Complex UI (YouTube) ](https://www.youtube.com/watch?v=FCyoHclCqc8&feature=youtu.be)
 * [Gesture Animations with multi-swipe](https://www.youtube.com/watch?v=Rlh8O7yqQU0)
+* [Learn Shadermask](https://www.youtube.com/watch?v=RRC4FQ8ORDw)
+* [Why Flutter animations need VSync and Tickers](https://dash-overflow.net/articles/why_vsync/)
+* 
+
+## Tips
+* Looking to animate a dialog? [Use showGeneralDialog, not showDialog](https://twitter.com/FlutterDev/status/1172540447937454083)
+* 
 
 ## List of production apps
 
